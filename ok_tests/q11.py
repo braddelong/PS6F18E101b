@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> import numpy as np
-          >>> np.isclose(LF_year0, 85.0, atol=0.1)
+          >>> np.isclose(LF_year0, 206.9, atol=0.1)
           True
           """,
           'hidden': False,
